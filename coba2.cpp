@@ -17,4 +17,4 @@ int main(){
     nama = "Dika";
     cout << "Nama saya : " << nama;
     
-}
+}//44
