@@ -17,3 +17,4 @@ int main()
     //langkah 5
     cout << "Hasilnya = " << luas ;
 }//selesai
+//44
