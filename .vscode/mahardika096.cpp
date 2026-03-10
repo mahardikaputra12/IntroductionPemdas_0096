@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Prototype Fungsi
+
 float input_berat();
 float input_tinggi();
 float hitung_bmi(float b, float t);
@@ -26,7 +26,7 @@ int main() {
     return 0;
 }
 
-// Implementasi Fungsi
+
 float input_berat() {
     float berat;
     cout << "Masukkan berat badan (kg): ";
@@ -61,4 +61,7 @@ string status_bmi(float bmi) {
         }
     }
     return s;
+    // Propotype fungsi
+    // fungsi input
+    
 }
