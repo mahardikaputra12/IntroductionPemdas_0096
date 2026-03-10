@@ -64,4 +64,5 @@ string status_bmi(float bmi) {
     // Propotype fungsi
     // fungsi input
     // Rumus berat badan ideal
+    // berat badan ideal
 }
